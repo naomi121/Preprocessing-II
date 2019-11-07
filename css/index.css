@@ -197,7 +197,8 @@ img {
   margin-bottom: 10px;
 }
 .line {
-  width: 5px;
+  width: 100%;
+  border-top: 2px dashed silver;
 }
 .footer {
   width: 100%;
