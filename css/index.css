@@ -192,13 +192,15 @@ img {
   margin: 0 auto;
 }
 .header {
-  display: flex;
-  justify-content: space-evenly;
   margin-bottom: 10px;
 }
 .line {
   width: 100%;
   border-top: 2px dashed silver;
+}
+.items {
+  margin-right: 10px;
+  margin-left: 90px;
 }
 .footer {
   width: 100%;
